@@ -1,0 +1,101 @@
+"Customer Group Catalog Rules","Customer Group Catalog Rules"
+"Add New Rule","Add New Rule"
+"Delete Rule","Delete Rule"
+"Are you sure you want to do this?","Are you sure you want to do this?"
+Reset,Reset
+"Save and Continue Edit","Save and Continue Edit"
+Save,Save
+"Customer Conditions","Customer Conditions"
+Conditions,Conditions
+"Apply To","Apply To"
+"Product Conditions","Product Conditions"
+"The rule is deleted.","The rule is deleted."
+"Can't delete item right now. Please review the log and try again.","Can't delete item right now. Please review the log and try again."
+"Can't find a item to delete.","Can't find a item to delete."
+"This rule no longer exists.","This rule no longer exists."
+"Manage Customer Group Catalog Rule","Manage Customer Group Catalog Rule"
+"New Customer Group Catalog Rule","New Customer Group Catalog Rule"
+"Edit Customer Group Catalog Rule","Edit Customer Group Catalog Rule"
+"Amasty Customer Group Catalog Rules","Amasty Customer Group Catalog Rules"
+"The rule is saved.","The rule is saved."
+"Something went wrong while saving the rule data. Please review the error log.","Something went wrong while saving the rule data. Please review the error log."
+"End Date must follow Start Date.","End Date must follow Start Date."
+"End Price must follow Start Price.","End Price must follow Start Price."
+"Please specify a store.","Please specify a store."
+"Please specify Customer Groups.","Please specify Customer Groups."
+"Base Price","Base Price"
+"Final Price","Final Price"
+"Starting from Price","Starting from Price"
+"Starting to Price","Starting to Price"
+"Customer ID","Customer ID"
+"Conditions Combination","Conditions Combination"
+"Customer attributes","Customer attributes"
+"Show 404 page","Show 404 page"
+"Redirect to CMS page","Redirect to CMS page"
+No,No
+Yes,Yes
+"Replace with text","Replace with text"
+"Does not matter","Does not matter"
+"Out of Stock","Out of Stock"
+"In Stock","In Stock"
+"Unable to save rule with ID %1. Error: %2","Unable to save rule with ID %1. Error: %2"
+"Unable to save new rule. Error: %1","Unable to save new rule. Error: %1"
+"Rule with specified ID ""%1"" not found.","Rule with specified ID ""%1"" not found."
+"Unable to remove rule with ID %1. Error: %2","Unable to remove rule with ID %1. Error: %2"
+"Unable to remove rule rule. Error: %1","Unable to remove rule rule. Error: %1"
+"You disabled %1 Amasty Customer Group Catalog Rules based on ""%2"" attribute.","You disabled %1 Amasty Customer Group Catalog Rules based on ""%2"" attribute."
+"Customer Group Catalog","Customer Group Catalog"
+"General Settings","General Settings"
+"Enable module","Enable module"
+"Amasty Customer Group Catalog Rule","Amasty Customer Group Catalog Rule"
+"Indexed rule/product rule/customer association","Indexed rule/product rule/customer association"
+"Indexed product/rule association","Indexed product/rule association"
+"Indexed customer/rule association","Indexed customer/rule association"
+"Rule ID","Rule ID"
+Name,Name
+Stores,Stores
+"Hide price","Hide price"
+Show,Show
+Hide,Hide
+Replace,Replace
+"Allow Direct Links","Allow Direct Links"
+Deny,Deny
+Allow,Allow
+Priority,Priority
+Status,Status
+Active,Active
+Inactive,Inactive
+"Customer Group Catalog Rule","Customer Group Catalog Rule"
+Back,Back
+"Rule Information","Rule Information"
+"Rule Name","Rule Name"
+"Rule Priority","Rule Priority"
+"If the product matches several rules, the one with the higher priority will be applied","If the product matches several rules, the one with the higher priority will be applied"
+"Date Range","Date Range"
+"Use Date Range","Use Date Range"
+From,From
+To,To
+"Customer Groups","Customer Groups"
+"Use Customer Groups","Use Customer Groups"
+"For Customer Groups","For Customer Groups"
+"Customer Conditions (Please mind these conditions are applied only for logged in customers)","Customer Conditions (Please mind these conditions are applied only for logged in customers)"
+Categories,Categories
+"Category Access Restriction","Category Access Restriction"
+"Additional filtering options","Additional filtering options"
+"Stock Status","Stock Status"
+"Price Range","Price Range"
+"Use Price Range","Use Price Range"
+"By Price","By Price"
+"From Price","From Price"
+"To Price","To Price"
+Actions,Actions
+"Display Options","Display Options"
+"Hide Category","Hide Category"
+"Hide Product","Hide Product"
+"Hide Price","Hide Price"
+"Replacement block for product page","Replacement block for product page"
+"Replacement block for categories page","Replacement block for categories page"
+"Hide ""Add to cart"" button","Hide ""Add to cart"" button"
+"Restriction Action","Restriction Action"
+"Action On Forbid","Action On Forbid"
+"CMS page redirect to","CMS page redirect to"
